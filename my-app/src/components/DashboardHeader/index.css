@@ -1,0 +1,37 @@
+
+
+.header-contaniner{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px 15px;
+}
+
+.header-heading{
+    font-size: 24px;
+    color:purple;
+    margin:0px;
+}
+.header-buttons-card{
+    padding:0px;
+}
+
+.header-tryForFree-button{
+    margin:0px;
+    color:white;
+    border:none;
+    border-radius: 6px;
+    padding:6px;
+    background-color: blue;
+    font-weight: bold;
+}
+.header-logout-button{
+    margin:0px;
+    margin-left:10px;
+    border:1px solid black;
+    border-radius: 6px;
+    padding:6px;
+    color:brown;
+    background-color: transparent;
+    font-weight: bold;
+}

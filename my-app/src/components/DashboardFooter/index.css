@@ -1,0 +1,35 @@
+.footer-container{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.footer-unorder-container{
+    display: flex;
+    list-style-type: none;
+    padding-left:0px;
+}
+
+.footer-responsive-container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-heading{
+    font-size: 18px;
+    margin:0px;
+    font-weight: bold;
+    color:blueviolet;
+}
+
+.footer-item{
+    font-size: 12px;
+    margin-right:5px;
+}
+
+.footer-para{
+    font-size: 12px;
+    margin:0px;
+    text-align: center;
+}
